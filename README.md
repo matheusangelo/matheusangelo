@@ -35,8 +35,8 @@ I'm passionate about technology, automation, and clean architecture. I have hand
 
 ## 📫 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/matheus-angelo)  
-- ✉️ matheus.angelo@email.com *(replace with your real email if you'd like)*
+- [LinkedIn](https://www.linkedin.com/in/matheus-angelo-939829141/)  
+- ✉️ matheusangelo10@gmail.com
 
 ---
 
