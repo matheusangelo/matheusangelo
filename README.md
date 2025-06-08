@@ -29,12 +29,6 @@ I'm passionate about technology, automation, and clean architecture. I have hand
 - 📘 Code examples following best practices in Python and .NET
 - 🌩️ Projects with AWS infrastructure
 
-## 📌 Featured Projects
-
-- [🔧 automacoes-python](https://github.com/matheusangelo/automacoes-python) — Useful scripts and automations in Python  
-- [🌐 angular-crud-exemplo](https://github.com/matheusangelo/angular-crud-exemplo) — CRUD example using Angular and mock backend  
-- [☁️ aws-labs](https://github.com/matheusangelo/aws-labs) — Hands-on labs and experiments with AWS
-
 ## 📜 Certifications
 
 - ✅ **AWS Certified Cloud Practitioner**
