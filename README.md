@@ -14,13 +14,13 @@ I'm passionate about technology, automation, and clean architecture. I have hand
 
 ## 🛠️ Tech Stack
 
-| Area          | Technologies/Platforms                       |
-|---------------|-----------------------------------------------|
-| Backend       | Python, .NET (C#)                             |
-| Frontend      | Angular 2+, HTML, CSS, TypeScript             |
-| Cloud         | AWS (EC2, S3, Lambda, IAM, etc.)              |
-| Databases     | Oracle, MySQL                                 |
-| Others        | Git, GitHub Actions, Docker, REST APIs        |
+| Area          | Technologies/Platforms                                   |
+|---------------|----------------------------------------------------------|
+| Backend       | Python, .NET Core / 5+ (C#)                              |
+| Frontend      | Angular 2+, HTML, CSS, TypeScript                        |
+| Cloud         | AWS (ECS, DynamoDB, EC2, S3, Lambda, IAM, etc.)          |
+| Databases     | Oracle, MySQL                                            |
+| Others        | Git, GitHub Actions, Docker, Kubernetes REST APIs        |
 
 ## 📂 What you'll find here
 
